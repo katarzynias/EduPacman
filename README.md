@@ -1,0 +1,3 @@
+Gra EduPacman stworzona na zaliczenie przedmiotu Współczesne Języki Programowania. Gra bazuje na klasycznej grze Pacman ze specjalnymi dodatkami.
+Podczas gry pojawiają się bonusy ,które po "zjedzeniu" przez użytkownika generują pytanie z 4 różnymi odpowiedziami. 
+W przypadku wybrania odpowiedniej odpowiedzi naliczane są dodatkowe punkty. Gra ma 3 poziomy trudnośc, które różnią się planszą oraz poziomem trudności pytań.
